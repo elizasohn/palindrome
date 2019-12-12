@@ -17,3 +17,6 @@ class String
     bool
   end
 end
+# for i in 0..string.length/2-1 do
+
+#end
